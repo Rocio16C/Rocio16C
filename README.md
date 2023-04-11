@@ -17,7 +17,7 @@
 <h3 align="left">Idiomas y herramientas:</h3>
 Azure | Blender | CSS3 | Express | Git | HTML5 | JavaScript | MySQL | Node.js | PostgreSQL | React | Redux | SQLite | Photoshop
 
-<div style="width: 500px;">
+<div style="width: 500px; display: flex;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="display: inline-block;">
