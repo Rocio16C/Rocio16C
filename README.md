@@ -78,7 +78,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" style="height: 120px; width: 41%" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=LandingPage_Parallax&cache_seconds=3600&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0,00071c,0f172a,003366&border_color=67E8F9&border_radius=10" />
+  <img align="center" style="height: 120px;" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=LandingPage_Parallax&cache_seconds=3600&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0,00071c,0f172a,003366&border_color=67E8F9&border_radius=10" />
 
 </a> 
 
