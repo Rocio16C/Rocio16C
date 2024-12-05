@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=67E8F9&size=25&center=true&vCenter=true&width=800&height=100&lines=Soluciones+Innovadoras🌟;Desarrolladora+Front-End+💻;Amo+explorar+nuevos+diseños+...💙&duration=3500&pause=500" alt="Typing SVG">
 </p>
 
-<img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdlb3FwcWg4a2U4cm56d3g3NjFseXlmcnJtazllaWozbXp6bzZoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Zg1AR4hZhLQ4s9bn8/giphy.gif" />
+
 
 
 <br>
@@ -119,3 +119,11 @@
 	
 </ul>
 </div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
