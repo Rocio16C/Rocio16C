@@ -85,7 +85,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
 
 <a href="https://github.com/rocio16c">
-        <img width="49%" height=170 src="https://github-readme-stats.vercel.app/api?username=rocio16c&show_icons=true&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&layout=compact" alt="rocio16c"/>
+        <img width="49%" height=170 src="https://github-readme-stats.vercel.app/api?username=rocio16c&show_icons=true&include_all_commits=true&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&rank_icon=github&layout=compact" alt="rocio16c"/>
 </a>
 
 <a href="https://github.com/rocio16c">
