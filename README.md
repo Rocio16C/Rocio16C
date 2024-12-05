@@ -1,5 +1,15 @@
-<h1 align="center">Hola 👋, soy Rocio Celeste</h1>
-<h3 align="center">Una apasionada desarrolladora Full Stack de México</h3>
+<h1 align="center"><b>Hola , Soy Rocío Celeste</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=67E8F9&size=25&center=true&vCenter=true&width=800&height=100&lines=Soluciones+Innovadoras🌟;Desarrolladora+Front-End+💻;Amo+explorar+nuevos+diseños+...💙&duration=3500&pause=500" alt="Typing SVG">
+</p>
+
+
+<br>
+
+## **Acerca de mí**
+
+<br>
 
 - 🔭 Trabajé en **Página Web de Países**
 
@@ -9,29 +19,92 @@
 
 - 📫 Cómo contactarme **rociocristal_201216@hotmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rocio-celeste-webdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rocío celeste pichardo jaimes" height="30" width="40"/></a>
-</p>
+<br>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-Azure | Blender | CSS3 | Express | Git | HTML5 | JavaScript | MySQL | Node.js | PostgreSQL | React | Redux | SQLite | Photoshop
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 
-<div style="width: 500px; display: flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" style="display: inline-block;margin-right: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="display: inline-block;">
-</div>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rocio16c&show_icons=true&locale=en&layout=compact" alt="rocio16c" /></p>
+<p align="center">
+
+- **Lenguajes**:
+
+    <img src="https://skillicons.dev/icons?i=javascript,python&perline=14" />
+
+<br>
+
+- **Desarrollo Front-End**:
+  
+    <img src="https://skillicons.dev/icons?i=javascript,css,html,react,redux,jquery,threejs,sass,bootstrap,materialui,figma&perline=6" />
+
+<br>
+
+- **Desarrollo Back-End (o Full-Stack)**:
+  
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,npm,postgres&perline=14" />
+
+<br>
+
+- **Cloud Hosting**:
+  
+    <img src="https://skillicons.dev/icons?i=aws,azure&perline=14" />
+
+<br>
+
+- **Softwares and Tools**:
+  
+    <img src="https://skillicons.dev/icons?i=linux,bash,github,eclipse,vscode,postman&perline=14" />
+
+<br>
+
+- **Extras**:
+  
+    <img src="https://skillicons.dev/icons?i=blender,discord&perline=14" />
+
+<br>
+<br>
+
+## Projects
+
+<a href="https://github.com/Rocio16C/Website-Clima">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=Website-Clima&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&border_radius=10" />
+
+</a>  
+
+<a href="https://github.com/Rocio16C/LandingPage_Parallax">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=LandingPage_Parallax&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&border_radius=10" />
+
+</a> 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
+
+<a href="https://github.com/rocio16c">
+        <img width="49%" height=170 src="https://github-readme-stats.vercel.app/api?username=rocio16c&show_icons=true&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&layout=compact" alt="rocio16c"/>
+</a>
+
+<a href="https://github.com/rocio16c">
+        <img width="41%" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocio16c&theme=dark&title_color=67E8F9&text_color=ccfaff&bg_color=0f172a&border_color=67E8F9&layout=compact" alt="rocio16c"/>
+</a>
+
+<br>
+<br>
+
+## <b> Conéctate Conmigo!!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/rocio-celeste-webdeveloper/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Rocío Celeste-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+</ul>
