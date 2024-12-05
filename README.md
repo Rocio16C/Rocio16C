@@ -70,7 +70,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=Website-Clima&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&border_radius=10" />
+   <img align="center" style="height: 130px; width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=Website-Clima&cache_seconds=3600&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0,00071c,0f172a,003366&border_color=67E8F9&border_radius=10" />
 
 </a>  
 
@@ -78,18 +78,18 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=LandingPage_Parallax&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&border_radius=10" />
+  <img align="center" style="height: 130px;" src="https://github-readme-stats.vercel.app/api/pin/?username=rocio16c&repo=LandingPage_Parallax&cache_seconds=3600&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0,00071c,0f172a,003366&border_color=67E8F9&border_radius=10" />
 
 </a> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
 
 <a href="https://github.com/rocio16c">
-        <img width="49%" height=170 src="https://github-readme-stats.vercel.app/api?username=rocio16c&show_icons=true&include_all_commits=true&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&rank_icon=github&layout=compact" alt="rocio16c"/>
+        <img width="49%" height=150 src="https://github-readme-stats.vercel.app/api?username=rocio16c&show_icons=true&include_all_commits=true&theme=dark&title_color=67E8F9&text_color=ccfaff&icon_color=67E8F9&bg_color=0f172a&border_color=67E8F9&rank_icon=github&layout=compact" alt="rocio16c"/>
 </a>
 
 <a href="https://github.com/rocio16c">
-        <img width="41%" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocio16c&theme=dark&title_color=67E8F9&text_color=ccfaff&bg_color=0f172a&border_color=67E8F9&layout=compact" alt="rocio16c"/>
+        <img width="41%" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocio16c&theme=dark&title_color=67E8F9&text_color=ccfaff&bg_color=0f172a&border_color=67E8F9&layout=compact" alt="rocio16c"/>
 </a>
 
 <br>
@@ -107,4 +107,13 @@
 </a>
 </li>
 
+<br>
+
+<li>
+<a href="mailto:rociocristal_201216@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/outlook: Rocío Celeste-%23007ACC.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email" style="margin-bottom: 5px;" />
+</a>
+</li>
+	
 </ul>
+</div>
