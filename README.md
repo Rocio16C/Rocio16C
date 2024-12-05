@@ -11,13 +11,13 @@
 
 <br>
 
-- 🔭 Trabajé en **Página Web de Países**
+- ⭐ Soy desarrollador frontend, especializado en crear aplicaciones web dinámicas y visualmente atractivas, usando tecnologías como JavaScript, React y Node.js
+  
+- ⭐ Me apasiona diseñar y construir sitios web que no solo cumplan con los objetivos del negocio, sino que también cuenten historias únicas
 
-- 🌱 Actualmente estoy aprendiendo **Bootstrap**
-
-- 👯 Colaboré en **Página Web de Restaurante**
-
-- 📫 Cómo contactarme **rociocristal_201216@hotmail.com**
+- ⭐ Actualmente, estoy incorporando animaciones y modelos 3D en mis proyectos para mejorar la experiencia y aumentar la interacción del usuario
+  
+- ⭐ En mi tiempo libre, me dedico a crear esculturas de papel (papercraft), una actividad que me permite combinar creatividad y precisión
 
 <br>
 
